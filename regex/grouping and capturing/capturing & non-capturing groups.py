@@ -1,1 +1,1 @@
-Regex_Pattern = r'(ok){3,}'	# Do not delete 'r'.
+Regex_Pattern = r'(?:ok){3,}'	# Do not delete 'r'.
